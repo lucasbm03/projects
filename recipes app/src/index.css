@@ -1,0 +1,13 @@
+body {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  font-family: 'Quicksand';
+  height: 100vh;
+  justify-content: center;
+  overflow: hidden;
+  width: 360px;
+  height: 640px;
+  background-color: tomato;
+}
